@@ -1,0 +1,4 @@
+{
+  "name": "niyam",
+  "pip": "-e ../niyam_openimis"
+}
