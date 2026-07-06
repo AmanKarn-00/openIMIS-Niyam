@@ -13,7 +13,7 @@ setup(
     description="NIYAM deterministic pre-submission claim validation module for openIMIS.",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/shuv-amp/NIYAM",
+    url="https://github.com/laxmanacharya8/openIMIS-Niyam",
     author="NIYAM",
     author_email="team@example.org",
     install_requires=[
